@@ -1641,8 +1641,8 @@ h1, h2, h3, h4, h5, h6 {
         padding: 12px 29px;
         font-size: 13px; }
         .header-top .header-top-right a.book-now:hover {
-          background: #000000;
-          color: #0093df;
+          background: #38a4ff;
+          color: #fff;
           box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.1); }
     @media (max-width: 480px) {
       .header-top .header-top-right a .lnr {
